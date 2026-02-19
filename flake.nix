@@ -22,6 +22,7 @@
             libsoup_3
             openssl
             cacert
+            xdotool
           ];
 
           shellHook = ''
